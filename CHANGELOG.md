@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/GangbacOl/git-playground/compare/v1.3.0...v1.4.0) (2022-04-04)
+
+
+### :rocket: New Features
+
+* 코드 수정 ([c61041f](https://github.com/GangbacOl/git-playground/commit/c61041f6717a6f4af4ca4b9384ccbeb67dfb089f))
+* feature/1 머지 ([3cf038f](https://github.com/GangbacOl/git-playground/commit/3cf038f9175a1a23b3745cc246558ef895e2c3a8))
+* feature/2 머지 ([9a44a68](https://github.com/GangbacOl/git-playground/commit/9a44a6872762377206e8af5b0adced6ee3e59618))
+
 ## [1.3.0](https://github.com/GangbacOl/git-playground/compare/v1.2.0...v1.3.0) (2022-04-04)
 
 
